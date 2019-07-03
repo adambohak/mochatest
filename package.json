@@ -1,0 +1,25 @@
+{
+  "name": "vigilant-octo-telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaturnV/vigilant-octo-telegram.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaturnV/vigilant-octo-telegram/issues"
+  },
+  "homepage": "https://github.com/SaturnV/vigilant-octo-telegram#readme",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "coffeescript": "^1.12.7",
+    "lodash": "^4.17.11",
+    "mocha": "^6.1.4"
+  }
+}
