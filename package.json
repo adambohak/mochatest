@@ -20,6 +20,6 @@
     "bluebird": "^3.5.5",
     "coffeescript": "^1.12.7",
     "lodash": "^4.17.11",
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   }
 }
